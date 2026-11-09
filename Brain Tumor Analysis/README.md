@@ -1,1 +1,1 @@
-# Research papers and learning resources related to Brain Tumor Analysis which I collect from various resources.
+# Research papers and learning resources related to Brain Tumor Analysis which I collected from various resources.
